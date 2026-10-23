@@ -1,4 +1,4 @@
-package shared.application.patterns;
+package com.acme.catchup.platform.shared.application.patterns;
 
 import org.springframework.cglib.core.internal.Function;
 
